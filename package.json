@@ -7,7 +7,6 @@
   
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
     "build": "npm install"
   },
   "engines": {
@@ -21,7 +20,5 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  }
+  
 }
